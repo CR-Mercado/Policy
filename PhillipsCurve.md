@@ -1,4 +1,4 @@
-# CaseStudyReport
+
 Carlos Mercado  
 November 7, 2017  
 ---
